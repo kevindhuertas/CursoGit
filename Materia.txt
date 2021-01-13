@@ -22,8 +22,32 @@ estados:
 commando basicos:
                  git init  --> decirle que vamos a hacer un proyecto nuevo (decir que voy a utilizar git) una vez al comensar
                  git add <file> --> pasar los archivos de working.. a stating area
+                                    gits add .   --> agrega al staging are  todos los archivos
                  git status --> para ver en que estado estado
-                 git commit --> pasar de stating are al repository
+                                status 
+                                        A: esta en el staging area
+                                        M: Hice unos cambios y todavia no se ha subido.. HAY QUE ADD de nuevo para hacer otro commit
+
+
+                 git commit   --> pasar de stating are al repository
+                                  git commit -m "descripcion"
+                                  git commit -am "descripcion"   -->para add y comit todos los archivos
+                
+                git log --oneline : para saber todos los commit que se hizo
+
+
+
+
+    
+                git reset --hard 092codigoCopia719  --> hacer una restauracion del archivo
+
+
                  git push ---> subirlo a un repositorio remoto y que pueda ser adccdido por los dev
                  git pull --> traer cambios que han hecho los otros dev
                  git clone --> copia de los archivos del repositorio
+                 
+            
+            
+            Editor vim
+                git commit  --amend   -> para abrir el editor vin 
+                            :i   --> modificar una descripcion de un commit ultimo que hicimos
