@@ -48,8 +48,17 @@ commando basicos:
                  git pull --> traer cambios que han hecho los otros dev
                  git clone --> copia de los archivos del repositorio
                  
-            
-            
+         Etiquetas/versiones
+                 git tag 15-09-20v1 -m"Version 1 del proyecto" -> Crea etiquetas en local con lel ultimo commit
+                            luego 
+                 git push --tags   -> para subir las etiquetas
+
+
             Editor vim
                 git commit  --amend   -> para abrir el editor vin 
                             :i   --> modificar una descripcion de un commit ultimo que hicimos
+
+        RAMAS
+                git branch NonbreRama --> para inciar una RAMA
+                git branch --> para ver en que rama estamos  * señalada
+                git checkout NombreRama  --> para trabajar en una rama
