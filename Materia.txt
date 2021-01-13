@@ -1,0 +1,29 @@
+Git:Sistema de control distribuido
+    trabaja con un repositorio y controla versiones
+    Cordina a desarrolladores en un mismo proyecto
+    Registro de todo lo que se escrito(se puede ver todo desde el inicio)
+    Puede trabajar con repositorios local o remoto
+
+
+Conceptops basicos:
+                    track de la historia del codigo
+                    snapshots de nuestros archivos (poder ver el codigo antiguo en cualquier momento)
+                    decido cuando hacer los cambio 
+
+
+bash es como una cosola pero con muchas otra funcionalidades
+
+estados:
+        Working directory --> donde estoy trabajando con mis archivos
+        staging area --> agregando archivos para el guardado
+        repository --. donde luego ya de tener mis archivos listos subirlos
+
+
+commando basicos:
+                 git init  --> decirle que vamos a hacer un proyecto nuevo (decir que voy a utilizar git) una vez al comensar
+                 git add <file> --> pasar los archivos de working.. a stating area
+                 git status --> para ver en que estado estado
+                 git commit --> pasar de stating are al repository
+                 git push ---> subirlo a un repositorio remoto y que pueda ser adccdido por los dev
+                 git pull --> traer cambios que han hecho los otros dev
+                 git clone --> copia de los archivos del repositorio

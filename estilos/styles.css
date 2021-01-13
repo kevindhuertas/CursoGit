@@ -1,0 +1,10 @@
+*{
+    background-color: aquamarine;
+}
+
+.cuadroCentral{
+    background-color: white;
+    border-radius: 30px;
+    padding: 10vh;
+    height: 70vh;
+}
