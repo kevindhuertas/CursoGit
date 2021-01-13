@@ -43,6 +43,8 @@ commando basicos:
 
 
                  git push ---> subirlo a un repositorio remoto y que pueda ser adccdido por los dev
+                               Podemos ver el push que nos da al inciar un repositorio
+                               
                  git pull --> traer cambios que han hecho los otros dev
                  git clone --> copia de los archivos del repositorio
                  
