@@ -62,3 +62,5 @@ commando basicos:
                 git branch NonbreRama --> para inciar una RAMA
                 git branch --> para ver en que rama estamos  * señalada
                 git checkout NombreRama  --> para trabajar en una rama
+
+                git branch -d NombreRamaEliminar --> Borrar la Rama 
