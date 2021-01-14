@@ -64,3 +64,22 @@ commando basicos:
                 git checkout NombreRama  --> para trabajar en una rama
 
                 git branch -d NombreRamaEliminar --> Borrar la Rama 
+
+
+        Github
+                pull-request --> es una peticion de pull para que una persona tenga el acceso de hacer un pull
+                Fork: 
+                        Ramificacion de proyecto y colaboradores
+                        es como una rama de todo el proyecto de alguien mas
+                        Al hacer un fork es hacer una copia identica del repositorio de alguien mas a nuestro propio nuestro 
+
+                                Ventajas:
+                                        poner tener una base de todo un proyecto para el nuestro
+                                        Poder colaborar --> poder hacer un commit y continuar con el proyecto 
+                                                                luego puedo hacer un PULL REQUEST para que el programador 
+                                                                original pueda ver nuestro codigo y si quiere puede añadir al proyecto original
+
+                                aprender fork con visualstudio si quiero hacer colaboraciones
+
+
+
