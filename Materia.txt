@@ -20,7 +20,7 @@ estados:
 
 
 commando basicos:
-                 git init  --> decirle que vamos a hacer un proyecto nuevo (decir que voy a utilizar git) una vez al comensar
+                 git init  --> decirle que vamos a hacer un proyecto nuevo (decir que voy a utilizar git) una vez al comenzar
                  git add <file> --> pasar los archivos de working.. a stating area
                                     gits add .   --> agrega al staging are  todos los archivos
                  git status --> para ver en que estado estado
